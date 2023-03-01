@@ -13,3 +13,6 @@ app.listen(port, () => {
   //   sequelize.sync();
   console.log(`Your server is running on port ${port}`);
 });
+
+console.log(1);
+//asdshbwd
